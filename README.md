@@ -5,12 +5,12 @@ This software is used to track the movements of the group bottomupclimbs.org. is
 
 ## Table of contents
  * Intro
-### Repo
-### Architecture
-### Dir Structure
-### Data examples
-### How to install
-### License
+ * Repo
+ * Architecture
+ * Dir Structure
+ * Data examples
+ * How to install
+ * License
 
 ## Intro
 This software is used to track the movements of the group bottomupclimbs.org (see http://www.bottomupclimbs.org for more details). It is made mainly by Alessio Piccioli <mailto: alessiopiccioli@gmail.com> under a GPL license, with the important contribution of other team members (Giuseppe Milanesi and Anne-Marie Flammesferld) and initial support of Romeo Zitarosa <mailto: Zitarosa @ netseven.it>
