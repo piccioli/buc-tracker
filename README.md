@@ -4,7 +4,7 @@ Web tools for tracking the bottomupclimbs group (via tracker.com)
 This software is used to track the movements of the group bottomupclimbs.org. is made mainly by Alessio Piccioli <mailto: alessiopiccioli@gmail.com> under a GPL license, with the important contribution of other team members (Giuseppe Milanesi and Anne-Marie Flammesferld) and initial support of Romeo Zitarosa <mailto: Zitarosa @ netseven.it>
 
 ## Table of contents
-### Intro
+ * Intro
 ### Repo
 ### Architecture
 ### Dir Structure
